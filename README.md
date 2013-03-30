@@ -4,7 +4,7 @@
 <h2>Requirements</h2>
 <ul> 
     <li><a href="http://kohanaframework.org/download">Kohana 3.3</a></li>
-    <li><a href="http://php.net/manual/pl/class.domdocument.php">DOMDocument PHP library</a></li>
+    <li><a href="http://www.php.net/manual/en/intro.dom.php">DOM extension</a></li>
     <li><a href="https://github.com/defunkt/jquery-pjax">jQuery pjax</a></li> 
 </ul>
 
